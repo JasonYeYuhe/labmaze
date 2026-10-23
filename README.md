@@ -1,5 +1,9 @@
 # LabMaze
 
+<p align="center">
+  <b>English</b> · <a href="https://github.com/google-deepmind/labmaze/blob/master/README.zh.md">简体中文</a>
+</p>
+
 **LabMaze** is a standalone release of the same maze generator that is used by
 [DeepMind Lab](https://github.com/deepmind/lab), which is a backtracking maze
 generator that can be configured to simplify paths and create rooms.
